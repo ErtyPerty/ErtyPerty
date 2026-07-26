@@ -17,6 +17,9 @@ Outside of professional software development, I enjoy game development as a hobb
 - Lua / LuaU
 - SQL
 - HTML & CSS
+- React Native
+- PHP
+- Python
 
 ### Software Engineering
 
@@ -32,11 +35,11 @@ Outside of professional software development, I enjoy game development as a hobb
 
 - Hibernate ORM
 - MySQL
+- XAMPP
 - Bootstrap
 - Gradle
 - GitHub
 - Roblox Studio
-- IntelliJ IDEA
 - Visual Studio Code
 
 ---
