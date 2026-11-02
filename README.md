@@ -20,6 +20,7 @@ Outside of professional software development, I enjoy game development as a hobb
 - React Native
 - PHP
 - Python
+- C, C++, C#
 
 ### Software Engineering
 
@@ -41,6 +42,7 @@ Outside of professional software development, I enjoy game development as a hobb
 - GitHub
 - Roblox Studio
 - Visual Studio Code
+- Learning Flutter
 
 ---
 
@@ -50,6 +52,7 @@ Outside of professional software development, I enjoy game development as a hobb
 
 I have developed a range of academic and personal projects focused on software engineering principles, including:
 
+- **Gameboy Emulator** using C++, low-level architecture and computer systems
 - **Desktop Applications** using Java, Hibernate, and relational databases
 - **Progressive Web Applications** using modern web technologies
 - **Database-driven systems** with structured data models and persistence layers
@@ -72,7 +75,7 @@ Current interests include:
 ## 📚 Currently Learning
 
 - Advanced software architecture
-- Backend development
+- Cyber Security
 - Cloud technologies
 - Distributed systems
 - Artificial intelligence
